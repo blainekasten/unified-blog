@@ -1,9 +1,13 @@
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-theme-blog`,
-      options: {},
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "posts",
+        path: `${__dirname}/content/posts`,
+      },
     },
+    `gatsby-transformer-remark`,
   ],
   // Customize your site metadata:
   siteMetadata: {

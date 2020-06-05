@@ -1,6 +1,7 @@
 ---
 title: My Second Post! (example)
 date: 2019-05-15
+topic: Fun
 ---
 
 Wow! I love blogging so much already.

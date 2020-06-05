@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.20.24-unifiedroutes-blog.28",
+    "gatsby": "^2.20.24-unifiedroutes.53",
     "gatsby-admin": "^0.1.65",
     "gatsby-recipes": "^0.1.37",
     "gatsby-source-filesystem": "^2.3.10",
